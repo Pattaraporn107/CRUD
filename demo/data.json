@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Pattaraporn Prasansang",
+      "email": "a@test.com",
+      "password": "12345678",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "fullname": "mama susu",
+      "email": "m@test.com",
+      "password": "234567",
+      "gender": "Male"
+    }
+  ]
+}
